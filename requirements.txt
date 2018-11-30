@@ -1,4 +1,3 @@
-yaml=0.1.7=hc54c509_2
 numpy
 scipy
 matplotlib
